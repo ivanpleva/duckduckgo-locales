@@ -208,7 +208,7 @@ msgid "All Layouts"
 msgstr ""
 
 msgid "All Places"
-msgstr ""
+msgstr "Všetku miesta"
 
 msgid "All Regions"
 msgstr "Všetky regióny"
